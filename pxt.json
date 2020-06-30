@@ -1,5 +1,5 @@
 {
-    "name": "auto_couse",
+    "name": "自動運転",
     "description": "",
     "dependencies": {
         "core": "*",
